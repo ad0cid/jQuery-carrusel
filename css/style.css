@@ -1,0 +1,23 @@
+li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	display: inline;
+}
+#carrusel{
+	position: relative;
+	margin: auto;
+	width: 100%;
+	overflow: hidden;
+}
+
+img{
+	width: 150px;
+	height: 150px;
+}
+
+.efecto{
+	background-color: aqua;
+	color: white;
+}
